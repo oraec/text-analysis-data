@@ -1,0 +1,3 @@
+𓇋𓏠𓈖𓇳𓏤 𓏃𓉗𓏏𓏥𓊹
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec8210.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Silke Grallert", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/U4WMYXRTQ5BLXPRGKHS4LPV5D4.xml"]}

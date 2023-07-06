@@ -1,0 +1,4 @@
+𓂋𓊪𓂝 𓄂𓂝 𓆤𓏏𓋨 𓋴𓍋𓌡𓏏 𓄓𓊹𓍛𓈖𓄝𓏏𓏏𓁐𓎟𓏏𓍋𓃀𓅱𓈉𓊖 𓁷𓁶𓉻𓈖𓇾𓐮𓏏𓏭𓈉 𓄓𓏤𓈉𓈉𓈉𓎟 𓄂𓂝 𓅭𓆳𓊪𓅱𓏏𓏥
+[⯑] 𓈖 𓊪𓏏𓎛𓁰 �𓏥 𓅝 𓉐𓂋𓂻 𓅓 𓄡𓏏𓏤 𓅓 𓂋𓐍𓏛 𓆜� 𓄣𓏤 𓋴𓌫𓏛 𓊹𓀭 𓂋 𓃀𓅱 𓎟 𓄤𓆑𓂋 𓄂𓂝 𓅭𓆳𓊪𓅱𓏏𓏥
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec1933.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Renata &amp; Peter Landgrafova &amp; Dils", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/LFELTYGNSBGVXAM4ZVATQGEUDA.xml"]}

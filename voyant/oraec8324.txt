@@ -1,0 +1,4 @@
+𓅓 𓇋𓄿𓀢
+𓇋𓅱 𓊨𓏏𓉐 𓎡 𓍯𓄿𓍘𓇋 𓐍𓆑𓏏 𓊹𓊹𓊹 𓎼𓂋𓅱𓍅𓏛 𓐛 𓊖𓏏𓏤 𓎟𓏏 𓂜𓃹𓈖𓏏 𓂞𓂞 𓈖
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec8324.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Ingelore Hafemann", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/FMPINDHVRVAGJC6TPGMWXYRFAA.xml"]}

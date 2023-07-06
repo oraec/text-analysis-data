@@ -1,0 +1,4 @@
+𓇓𓏏𓊵𓏙 𓊨𓁹 𓏃𓋀𓅂 𓊹𓉻 𓎟𓍋𓈋𓊖
+𓂞 𓆑 � 𓏐 𓏊 𓃿 𓅿 𓍱 𓋲 𓊸 𓎯 𓐍𓏏 𓎟𓏏 𓄤𓂋𓏏 � 𓋹𓏏 𓊹 𓇋𓅓 𓅜𓐍 𓄊𓋴 �𓊤 𓅓 𓊻 𓈖 𓂓 𓈖 𓏞𓈖𓍕𓏏𓉐𓅨 𓏠𓈖𓏏𓅱𓅭𓏤 𓐙𓊤 𓁹𓈖 𓄓𓊚𓏏𓏭 𓋴𓈖𓃀 𓄟𓈖 𓎟𓏏𓉐 𓂋𓈖𓋴𓈖𓃀 𓐙𓏏𓊤 𓅓 𓁹 𓈖 𓆑 𓌢𓈖𓏤 𓆑 𓋔𓏏𓋨 𓌂𓎺𓏏 𓋴𓈖𓃀
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec666.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Susanne Beck", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/ZYN33WXKDRHHJENC6CFSA3GP3I.xml"]}

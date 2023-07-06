@@ -1,0 +1,6 @@
+𓃥𓏞 𓂘𓍛𓋴𓌉 𓋴𓊵𓏏𓊪𓅱
+𓅓𓂋𓉐𓏤 𓂘𓍛𓋴𓌉 𓋴𓌫𓄤
+𓏞𓍲𓏌𓏏𓊚 𓍿𓍿𓅱
+𓏎𓈖𓏏 𓇋𓂋�
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec11355.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Stefan Grunert", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/RJLNH2Q32RFGZBNUKNUU4F22KI.xml"]}

@@ -1,0 +1,6 @@
+𓊹𓊹𓊹 𓐛𓄚𓈖𓉐 𓉗𓏏𓉐 𓊃𓈖𓏥
+𓅜𓐍𓏛𓏥 𓂋𓍿𓀀𓁐𓏥 𓐛𓏇𓏏𓏏𓏛 𓊵𓏏𓊪
+𓄔𓐛𓀁 𓌃𓂧𓏥 𓈖 𓅄𓂞𓂞𓆑 𓎛𓋔𓂝 𓇍𓇋𓏭𓐛𓊵 [⯑]
+𓆑 𓐛 𓅮 𓄤𓆑𓂋 𓇋𓀁𓈝𓏭𓂻 𓆑 𓇋𓋔 [⯑] [⯑] [⯑]
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec7900.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Lutz Popko", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/JIDNR2INZBBAJL6PTMWXX5KCHE.xml"]}

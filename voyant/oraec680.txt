@@ -1,0 +1,11 @@
+𓆓𓌃
+𓈍𓂝 𓇳 𓋞𓊹𓊹𓊹
+𓃹𓉿 𓈖 𓆑 𓈎𓂋𓏏𓈒𓉐𓏥 𓈙𓇾𓏛𓏥
+𓋴𓈙𓉿 𓆑 𓊪𓏏𓎛𓏏𓅱𓉐𓏥 [⯑] 𓆑 𓋴𓂝𓂋𓈐 𓆑 𓆑
+𓇋𓄿𓏏𓅱𓀢 𓈖
+𓎡 𓋹𓈖𓐍 𓊏𓊪𓂡 𓎡 𓐙𓌳𓂝𓏏
+𓊵𓏏𓊪 𓄣𓏤 𓎡 𓅓 𓇏𓏏𓏤 𓎡 𓐛 𓁹𓏏𓈖 𓈖 𓎡 𓂧𓏏𓏤 𓎡 𓈖𓏏 𓆓𓏏𓏤 𓎡
+𓈖 𓐛 𓎟 𓋹 𓅓 𓊪𓍿𓈖𓆑𓏭 𓐛𓂝𓐍𓆑 𓇏 𓆑
+𓇋𓅱𓎼𓂋𓇼
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec680.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Doris Topmann", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/ZUSQFTERARHBLEBPOAUIIQKPHM.xml"]}

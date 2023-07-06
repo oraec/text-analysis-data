@@ -1,0 +1,9 @@
+𓆓𓌃
+𓊨𓁹 𓇋𓅱 𓂋𓂝𓈖 𓆑 𓏏𓅱𓊡𓏤𓏤𓏤 𓆑 𓇛 𓋴𓏏𓊸 𓂋 𓂉𓏤 𓈖 𓆤𓏏𓋨 𓊪𓈖𓎛𓋴
+𓈖𓏏𓆑 𓋴𓐍𓏌𓂘 𓊨𓏏𓉐 𓅱𓇋𓇋 [⯑] 𓃹𓈖𓏌
+𓇋𓅱 𓀸𓈖 𓆑 𓋴𓅱𓎛𓏏𓆇 𓈖𓏏 [⯑]
+𓋴 𓌗 𓆤𓏏𓋨 𓊪𓈖𓎛𓋴
+𓋹 𓆑 𓋹 𓋴
+𓌢𓌢𓏌𓂉 𓋴 𓊡 𓋴𓋴𓏌𓂉 𓆑 𓊡
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec848.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Doris Topmann", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/LS4I6C26E5F3JDQ57WYQS2I424.xml"]}

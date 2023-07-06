@@ -1,0 +1,14 @@
+[⯑] [⯑]
+[⯑] [⯑]
+𓃹𓈖𓎡𓀀 𓂋 𓀀 [⯑] [⯑] 𓀀 𓐍𓅓𓂜𓈖 𓅱𓀀 [⯑]
+𓁷𓏤 𓅱𓄞𓂧𓀁 𓀀 𓂋
+𓀀 𓏇𓇋 𓊃𓀀𓏤 𓎁𓏏𓂡 𓅓
+𓊄𓅱𓅨
+𓎛𓂝𓄹𓏥 𓀀 [⯑]
+[⯑] 𓅓 𓄡𓏏𓏤 𓀀
+𓅓𓏏𓀏
+𓂜 𓂋𓐍𓏛 𓅱𓀀 𓂋 𓋹𓈖𓐍
+𓇋𓇍𓏏𓂻 𓇋𓅓
+𓆓𓂧𓇋𓈖 𓆑 𓈖 𓌡𓅱𓂝𓀀𓏤 𓇓𓅱 [⯑]
+Source: https://github.com/oraec/corpus_raw_data/blob/main/oraec2455.json
+Credits: {"license"=>"cc-by-sa-4.0", "author"=>"Frank Feder", "source"=>["https://github.com/simondschweitzer/aes", "https://github.com/simondschweitzer/aed-tei/blob/master/files/TR5LVX6DERCK7PMBDLPDY7JQ4I.xml"]}
